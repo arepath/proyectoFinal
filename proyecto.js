@@ -129,5 +129,3 @@ if (edad <= 18) {
   alert("El precio sera de: " + precio_final);
 
 };
-validadorBucle = prompt("¿Desea realizar otra cotizacion? Escriba salir para finalizar");
-
